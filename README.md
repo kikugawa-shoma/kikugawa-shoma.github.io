@@ -1,1 +1,0 @@
-# kikugawa-shoma.github.io
