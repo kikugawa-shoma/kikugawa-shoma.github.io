@@ -1,2 +1,3 @@
 include: 
   - './_next'
+  - './_next/static/chunks/fd9d1056-1314696de126ba17.js'
